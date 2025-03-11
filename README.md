@@ -1,1 +1,2 @@
 # FPGA-Projects
+Some of the projects will have videos. The XDC file I used was from this repository: https://github.com/Digilent/digilent-xdc/ I am using the Nexys A7-100T This was all done from my ECE 3300 Verilog class. We used teachings from the FPGA Prototyping By Verilog Examples, XILINX SPART-3 version by Pong P. Chu Link to code: https://github.com/barbedo/verilog-book/tree/master/files/book_code_listing
